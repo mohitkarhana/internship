@@ -1,0 +1,47 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+.block
+{
+	width: 45%;
+	margin-left: 30%;
+}
+.column 
+{
+	display: inline-block;
+	width: 200px;
+	height: 240px;
+}
+.column h1
+{
+	font-family: arail;
+	font-size: 24px;
+	font-weight: 900;
+}
+.column h3
+{
+	font-family: arial;
+	font-size: 14px;
+	margin-top: 0px;
+	margin-top: 10px;
+}
+.column h5
+{
+	font-family: arial;
+	color: #696969;
+	font-weight: 400;
+	font-size: 14px;
+	margin-top: 10px;
+}
+.block img
+{
+	display: inline-block;
+	float: right;
+}
+hr
+{
+	border: 1px solid #dcdcdc;
+	margin-bottom: 20px;
+}
